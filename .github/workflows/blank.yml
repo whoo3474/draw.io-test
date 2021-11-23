@@ -27,7 +27,7 @@ jobs:
       
       - run : pwd
   
-      - run : whoiam
+      - run : whoami
       
       - run : curl www.naver.com
       
